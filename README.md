@@ -1,6 +1,6 @@
-# NLP_ML
+# Part of Speech recognition
 
-This is repository for NLP_ML tasks. 
+This is repository for NLP tasks. 
 
 The first task is to build part of speech recognision LSTM network.
 Firstly, the most optimum parameters for mmodel are tuned. Then the model is trained on 10% , 20%, ..., 90% and 100% of initial data from Unicersal Dependencies PoS dataset.
