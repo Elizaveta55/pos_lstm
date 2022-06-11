@@ -1,0 +1,8 @@
+batch_size: 32
+layer: 2
+is_bidirectional: True
+epochs: 10
+embed_dim: 100
+hidden_dim: 128
+dropout: 0.25
+data_limit: 10
